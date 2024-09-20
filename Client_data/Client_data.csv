@@ -1,0 +1,201 @@
+Client ID,Name,Age,Gender,City,Registration Date,Sport Preferences
+f24bfd76-a07f-449e-b11e-71ae6ce2a465,Elizabeth Weaver,23,,Cartagena,2021-09-23,"Hiking, Running"
+fc76ff58-677e-4399-8c8d-c79b90e79b94,Kelly Perez,41,Male,Cali,2022-08-22,"Gymnastics, Hiking"
+1bbf9922-a6db-44d1-a748-687529bdf604,Kimberly Thomas,55,,Cartagena,2023-02-13,"Soccer, Hiking, Running"
+6e9cee64-3f07-4696-82c1-5d9f7c4302c3,Tara George,43,Female,Bogotá,2022-05-23,Soccer
+c2c49a97-2e6f-4665-9776-da51f8c03d19,Alison Hernandez,44,,Barranquilla,2023-10-12,Yoga
+3f74df9a-e43b-4530-9b3e-660550835669,Patrick Hoffman,26,Non-binary,Medellín,2022-01-14,"Hiking, Running, Gymnastics"
+85e2b078-7a3e-4905-aeef-4b09bc7838b3,Tammy Snyder,30,Female,Bogotá,2023-01-08,"Yoga, Swimming, Running"
+357245f9-1732-4565-9dc2-57bde19dad46,Timothy Green,57,Non-binary,Cali,2023-01-16,"Gymnastics, Running"
+e771edcc-969a-4550-bdb9-def338428c7a,Nathan Garner,21,Male,Cali,2021-11-17,"Hiking, Soccer"
+cc898b6a-733d-4528-9432-3934cda9cfae,Michael Gonzales,39,Male,Cartagena,2022-10-16,"Soccer, Running"
+4114fa10-55b3-41ac-8349-20a7fcfa3a3b,Greg Morris,54,Male,Bogotá,2022-08-17,"Swimming, Running"
+5cae1234-bb10-4406-9a55-805dd0cd8cc6,Susan Robbins,33,Female,Bogotá,2022-06-14,"Gymnastics, Soccer, Swimming"
+a0e38dd6-f700-4585-a4d0-6b24047595fb,Elizabeth Leon,45,Female,Medellín,2021-09-09,"Soccer, Yoga, Running"
+1e6ad906-e25c-43af-9ac7-9c048b8b435c,Jeffrey Davis,46,Female,Barranquilla,2022-02-16,"Swimming, Running"
+8e6b81a3-e9ed-459c-a80a-b2000cfcbe46,Craig Pena,56,Female,Cartagena,2022-08-17,"Yoga, Swimming"
+c38efb8c-1536-4c1f-90b3-59d9ff0a837a,Jeffrey Newman,64,,Bogotá,2024-07-22,Gymnastics
+10a15299-054e-4a50-8962-073ba0f9986a,Mark James,54,Non-binary,Bogotá,2022-04-12,"Swimming, Running"
+02c81d11-73f1-4747-a9a2-8f3cb9abe19f,Aaron Armstrong,38,Male,Cali,2024-06-26,Swimming
+5eabd8f7-1782-44e8-8cb7-71b1e922ba0a,Mary Hancock,54,Male,Bogotá,2023-09-16,Swimming
+ca70c692-90d8-416a-8fe5-69dd415fd4f3,Matthew Edwards,39,Male,Cartagena,2024-05-18,"Soccer, Swimming"
+fcc59763-7f44-4ece-b2db-458cc4fc4cd0,Katie Cameron,39,Male,Bogotá,2021-10-22,"Hiking, Soccer"
+36834a01-bdb5-4f1d-a141-b4023e6836da,Annette Garcia,18,Male,Cartagena,2024-02-24,"Soccer, Running, Swimming"
+d6659f3a-9708-439e-976f-1bd98f43392b,Lisa Chavez,29,Male,Medellín,2023-07-05,"Running, Hiking, Swimming"
+9dcc5998-bc6b-4535-8399-a6c0653dab24,Kelly Macias,43,Female,Bogotá,2022-12-14,"Gymnastics, Swimming, Soccer"
+20719868-35f2-45fa-85aa-157bb409e558,Kristen Chambers,62,,Bogotá,2024-02-16,Running
+754151b0-0cdf-420e-81e7-5ade858e8dfb,Danielle Long,27,,Barranquilla,2023-12-18,"Yoga, Gymnastics"
+1ef8021c-bce9-4f07-8ebb-7bc5a9988bcc,Laura Mccann,53,,Medellín,2024-07-22,"Swimming, Gymnastics, Running"
+725964c4-73c4-4ceb-8467-81798383818f,Kevin Collins,55,,Barranquilla,2024-07-09,"Hiking, Swimming, Yoga"
+ddb3d8ee-6f8b-4cbe-b759-f3ec13843901,Adam Rodriguez,32,Male,Cali,2022-12-30,"Gymnastics, Running, Yoga"
+8ea70cf1-1aff-4f25-96be-ad62d52da285,Michael Smith,37,Female,Cartagena,2021-09-03,"Yoga, Hiking"
+766c7fca-bfad-4f17-8f64-6b9004a0e784,Maxwell Smith,38,Female,Bogotá,2022-08-08,"Yoga, Running"
+83c39b81-e8f3-40a8-9b76-1752463b76af,Thomas Gonzalez,52,Female,Cali,2023-04-21,Swimming
+7a0cd3b5-e85c-4c1b-b265-00149a7945cf,Adrian Trevino,33,Non-binary,Cartagena,2024-02-29,"Swimming, Soccer"
+4b5e5471-c640-4708-99d8-0fa6f0f4c87c,Michael Hernandez,61,Male,Medellín,2023-07-15,"Soccer, Gymnastics, Yoga"
+4741fb17-5942-4dba-9057-6ddf43237e08,Melinda Goodman,30,Male,Cartagena,2022-07-16,Soccer
+f7d9dde9-8d19-4e5e-aedd-4d37b5a99074,David Davis,45,,Bogotá,2024-07-08,"Swimming, Gymnastics"
+0d5e1bd9-8d83-4031-ac27-47c0ff52f3ab,Heather Atkins,20,Female,Cartagena,2023-02-16,"Running, Hiking, Yoga"
+5759b929-ab98-43c4-a246-ce0a0e9920ec,Dustin Alvarez,49,Female,Bogotá,2023-11-23,"Running, Gymnastics"
+ecbdaec9-51b8-44b5-8d86-eddb81190840,Manuel Flores,63,,Barranquilla,2023-01-30,"Yoga, Gymnastics"
+72e74f09-cef2-4861-8512-66c2d4443d7f,Carrie Nolan,57,Female,Bogotá,2022-11-06,Hiking
+0077c6f0-7dba-43cf-83b1-aaafb1d1958c,David Levy,40,Male,Cali,2022-01-29,Hiking
+6149ef27-0c33-4eda-a40c-0ab3dfc753aa,James Hancock,32,Non-binary,Barranquilla,2021-10-02,Swimming
+033f692f-ad9d-41e7-8685-e760530d9dac,David Horton,28,Female,Bogotá,2023-07-29,"Gymnastics, Soccer, Running"
+bcea20e0-c497-449d-b20f-e04d1a4a17e1,Anthony Garcia,65,,Cali,2021-11-04,"Running, Gymnastics"
+8649a760-6c50-4cc2-81f3-ca1d02af87f5,Samantha Mitchell,35,Male,Cartagena,2021-11-20,"Running, Soccer, Swimming"
+56a62bec-9599-4d25-bb4b-57fe55613337,David Singh,34,,Medellín,2022-08-10,Hiking
+049167c9-b519-4f8e-85f8-7f5c71347c31,Janet Williams,-45,,Cali,2022-06-17,"Gymnastics, Hiking, Soccer"
+8fb91db8-1d3b-4cfb-bd31-7f2fb72d9bb4,Robert Ryan,60,Non-binary,Cali,2022-12-05,"Hiking, Gymnastics"
+3db11d61-b720-4aba-8c5d-5cd8265244e8,Kimberly Hamilton,41,Female,Bogotá,2023-06-30,"Swimming, Gymnastics, Soccer"
+5c567c5c-09d2-4041-ac05-fec343305aa1,Elizabeth Charles,27,Female,Cali,2023-01-18,"Running, Gymnastics"
+641cd0b7-3aa0-46f4-862e-8578a05206d2,Scott Miranda,40,Non-binary,Cartagena,2022-01-08,"Soccer, Gymnastics, Hiking"
+993c47c3-f953-449a-bf29-867d22c0f031,Justin Smith,25,,Barranquilla,2023-11-13,Hiking
+9450826f-f23d-434c-a9a2-0bc4ef59b502,Charles Kelley,58,Female,Barranquilla,2023-04-30,"Running, Swimming, Soccer"
+49c85564-5e86-46aa-84cb-5e626391a567,Justin Smith,27,Male,Cartagena,2024-02-05,"Gymnastics, Yoga"
+c67518c9-5e19-42bd-828f-1175eb59d49f,Gloria Downs,53,Male,Medellín,2024-06-21,"Hiking, Gymnastics"
+10912208-5d81-478a-9ef7-0581af71f4ae,Isaac Sosa,20,Female,Cali,2022-09-01,"Running, Yoga, Soccer"
+d60bd6f7-367a-420c-a67a-eae2ccc0ae2d,Lindsay Crosby,36,,Medellín,2023-09-30,Running
+519662cc-1c8e-4f7f-ac85-a655c8a8135a,Kristin Oliver,46,Non-binary,Bogotá,2024-03-20,Swimming
+77cc7a7b-4162-4a27-9b90-c27f2a5debfa,Cody Barnes,18,Female,Bogotá,2022-01-04,"Swimming, Running"
+db0b921f-426a-4b9c-a653-b39e513527a3,Gabriella Townsend,43,,Cartagena,2023-03-10,Hiking
+de8d4a69-44a0-4ecb-9fb2-e686cbee3f1d,Sabrina Gutierrez,20,,Barranquilla,2022-06-23,"Yoga, Running"
+75b10f2f-9509-4cd0-a85f-9f8a33213ea4,Jessica Flynn DDS,54,Male,Barranquilla,2021-08-08,Running
+70eb1aee-07e5-4dfc-a2f0-62975d96425e,Thomas Stokes,46,Female,Bogotá,2021-12-31,Running
+6369bae7-fef8-4ac9-8d5e-0895d7511fe6,Michael Jordan,19,Female,Cartagena,2024-03-15,"Hiking, Yoga"
+f1772181-9d4f-4e48-a769-d8773ab2107c,Dr. Kyle Mcgrath,37,,Barranquilla,2023-04-27,Gymnastics
+2ad735da-2d11-4499-8f5a-41c70fa0ab35,Erica Gordon,23,,Cali,2023-07-04,Gymnastics
+63d45aa3-de2b-4082-9342-365328beae8e,Calvin Smith,40,,Medellín,2023-07-17,"Yoga, Soccer"
+7ad8ae0b-5048-485a-8544-b042c9e63583,Katie Robinson,60,,Medellín,2024-01-04,"Running, Swimming"
+b2192894-7dbd-4047-8750-29fbd561d047,Daniel Smith,43,,Medellín,2022-10-25,Soccer
+bb9bdf46-f593-4c38-ae7f-27629f95ecca,Aaron Christian,44,Non-binary,Medellín,2024-03-09,Gymnastics
+40e54cdb-dc37-4dfb-a210-f28b630f00b1,Madison Pham,47,Female,Barranquilla,2022-06-11,"Swimming, Soccer, Running"
+fce10181-e6ba-4205-a016-8140c55752ec,Roger Booth,36,,Cartagena,2023-08-22,Hiking
+d2c49b21-dfc8-4d58-a483-d3945c764349,Lisa Marsh,36,,Cartagena,2021-09-22,"Swimming, Gymnastics"
+a84cd94a-656f-475e-9969-1df6be961834,Haley Salinas,44,,Cali,2022-10-30,"Hiking, Running"
+65ad9edc-42a1-49ef-bfac-f1e1f5052458,Linda Norton,41,Male,Cali,2023-07-24,"Gymnastics, Running, Hiking"
+33b9426d-f25d-4d20-ae52-6cf5ced15cd3,Kathleen David,59,Male,Medellín,2021-10-03,"Soccer, Gymnastics, Swimming"
+bdf76a13-d4e3-4d71-a861-73fdbca12484,Joseph Vaughn,29,,Barranquilla,2023-05-28,"Yoga, Swimming"
+29bfce74-4531-4f00-8f21-9ce31a8f1af0,Daniel Anderson,20,Female,Barranquilla,2023-01-27,"Soccer, Hiking, Swimming"
+97cd20ac-93b2-4689-9f84-f6fb358a4939,Amy Martinez,35,,Medellín,2022-09-02,"Gymnastics, Soccer"
+2f8b977b-4897-42b2-895f-350593247ace,Kenneth Houston,27,,Medellín,2022-01-20,Running
+b6a49911-5597-48f5-82b4-2bf869e5ab7b,Kelly Green,60,Male,Bogotá,2022-01-20,"Swimming, Yoga"
+8eb0f052-f003-4bfe-8e01-79bff5f9faf4,Alyssa Chandler,60,Male,Bogotá,2024-03-06,"Running, Swimming, Yoga"
+e3d86d14-514f-452f-8b71-9e2f7be14cbd,Rebecca Wilson,24,Female,Bogotá,2023-05-23,"Hiking, Yoga"
+97b43392-1568-4254-aae9-052ff3187705,Mrs. Patricia Cooper,30,Female,Cartagena,2022-03-27,"Yoga, Gymnastics, Running"
+62efeb3f-2044-4eef-825e-816b0a53381b,Rita Watson,24,Non-binary,Barranquilla,2023-01-08,"Gymnastics, Yoga"
+eb5ea9c3-f9d9-46eb-97ac-762e842f9dad,Rhonda Ross,-43,Male,Medellín,2022-01-25,Swimming
+316bef00-8dc7-4e48-9e29-3bd91ae3b638,Marvin Powell,-35,Non-binary,Medellín,2021-10-08,Soccer
+eb63d7ef-1540-454d-a644-d4f4e0985dd3,Hector Beard,38,,Bogotá,2024-01-08,"Yoga, Swimming"
+695d5d5a-1da8-4429-a54b-260fb1d48b03,Brandon Villa,45,Female,Cali,2022-03-07,"Gymnastics, Hiking"
+a842d78e-ec95-490f-bc53-5a6045f8ba73,Carolyn Durham,25,Female,Cartagena,2023-03-26,Yoga
+340ace11-db83-4a1f-b2f0-491f6f6bf219,Joseph Barnes,41,Male,Bogotá,2022-07-06,"Yoga, Hiking"
+cfe11713-1a0b-4d0f-8275-89eaf60ea033,Heidi Keith,26,,Cali,2023-01-05,Running
+3bc4b9f8-8263-4a78-8050-87bdff555ae5,Mr. Anthony Whitehead Jr.,60,Male,Medellín,2023-06-08,Hiking
+0995e98c-c82d-4858-99f8-b828a40aaab8,Gary Howell,23,Non-binary,Cartagena,2022-01-04,"Soccer, Yoga"
+4d924c83-c9b2-4ee7-9fec-40913d938a51,Amy Myers,30,,Cartagena,2022-03-25,Swimming
+21653fa6-3998-4ec0-931d-32b6e80c5c54,Andrew Hudson,40,Non-binary,Cali,2023-08-02,"Hiking, Gymnastics, Soccer"
+3c3163e1-8d40-4542-8c0f-53727a03ee5c,David Hanson,59,Male,Cali,2022-01-04,"Swimming, Yoga"
+4b9cfdfa-b751-47eb-acb7-a2d2551a6cad,Jerry David,41,,Barranquilla,2023-08-15,"Gymnastics, Yoga, Running"
+30cc068d-7a9f-4f59-892c-663c430928ae,Maureen Morrison,42,Female,Medellín,2024-01-08,Soccer
+431c327f-6e15-439a-99cb-df86676b9e5d,Carlos Carlson,42,Male,Bogotá,2023-09-06,"Gymnastics, Hiking, Soccer"
+9bcb160a-3c02-44d5-8c49-c10f1c23b220,Melanie Knight,47,,Cali,2021-08-17,"Yoga, Hiking"
+f81721d5-de90-479d-b231-468b4e3a4082,Christine Walker,46,Female,Barranquilla,2024-01-22,Swimming
+d0a776b0-5c3e-4d9b-8640-151e509dbfdf,Timothy Walton,38,Male,Bogotá,2024-01-11,"Running, Yoga, Gymnastics"
+ca7b0dc6-8c63-4a50-a003-05a5cb691e67,Anthony Russell,36,Non-binary,Cartagena,2024-03-31,Soccer
+a4cbda99-54e4-460c-b3fa-5ecd4cfec3f6,Justin Rodriguez,53,Female,Bogotá,2022-10-04,"Swimming, Soccer"
+ccd6126b-0b2d-47b2-bc88-1f9fcb8e6793,Antonio Valdez,59,Female,Cali,2024-06-18,"Soccer, Yoga"
+9ed8bfa8-1e55-4521-a9fc-795dc3d0db4b,Shelby Mcdowell,18,Non-binary,Cartagena,2023-10-31,Yoga
+92a55f24-d592-42ca-9926-da1ba1619600,Amanda Vargas,60,,Cartagena,2023-05-07,"Running, Swimming, Gymnastics"
+1bb9967b-19c8-4c07-8795-1f79d3f54817,Scott Spencer,38,Male,Cali,2022-07-31,Soccer
+e9f1c34d-9ad0-4d70-ab0b-5d4a7baaa17c,Damon Boyd,33,Male,Bogotá,2023-09-03,"Soccer, Swimming"
+3a7fb889-df29-450e-933d-9e6fd9d7b48a,Michael Hopkins,54,,Cartagena,2021-11-17,"Soccer, Gymnastics"
+c3e3187b-dfae-40ab-ba70-f6053f0a22d2,Mrs. Shelia Henry MD,28,Female,Barranquilla,2022-05-31,Swimming
+fec264ee-8d6b-49fc-8974-82168ca57731,Jeanette Graves,20,,Barranquilla,2024-01-12,"Yoga, Swimming"
+e077fb54-0c58-4f77-a38b-0af3cf0d39bb,Kevin Wade,59,Male,Medellín,2024-02-18,"Hiking, Soccer, Swimming"
+5503ca91-6bbd-4a43-8d8d-f058be046bc7,Sheila Hall,45,Female,Bogotá,2021-11-13,Hiking
+80678ee3-88e0-4d93-9c5a-7bc04c831ff4,Tim Mccarty,42,,Medellín,2022-11-20,"Gymnastics, Soccer, Running"
+6f311406-82e0-4b43-9cd9-c8933d6c4c31,Richard Morris,30,Female,Cali,2022-12-16,"Gymnastics, Running, Swimming"
+352abdc0-d492-43f9-9741-3bcdfbdd8d33,Elizabeth Lee,24,Non-binary,Barranquilla,2022-08-17,Soccer
+29f1ca3a-88af-47d3-b15f-e2ff689a0ced,Jason Marshall,43,Female,Barranquilla,2022-08-21,"Swimming, Soccer, Yoga"
+5d531aa7-f032-472d-85d3-b767464a9b5d,Austin Bean,41,,Cali,2023-06-20,"Hiking, Yoga"
+2aa8ac45-fc22-453f-98c4-07a8adfd429f,Rhonda Cain,41,Female,Bogotá,2022-09-21,"Soccer, Swimming"
+32e9933d-649e-4f3a-a3e7-66b702352cfc,Christopher Brown,55,,Medellín,2023-05-29,"Hiking, Swimming, Yoga"
+cde7f769-6d4d-4b1a-a524-c559554829e5,Amanda Middleton,37,Male,Medellín,2024-05-29,"Soccer, Running"
+03a17a29-9727-412f-9293-8a3ff3c09c1a,Amanda Ali,45,Non-binary,Cali,2023-12-22,Running
+dc016a1e-e64c-4980-aa08-214c3c9111d0,Jessica Wagner,26,,Cartagena,2023-08-31,Soccer
+44f773bc-131e-4e35-a34a-c29a3f2c1569,Cory Taylor,35,Female,Cartagena,2021-09-18,"Running, Yoga, Gymnastics"
+ba72ec89-4d34-49c9-86b0-04ae71197d0b,Jane Aguirre,43,Non-binary,Cali,2024-05-15,"Swimming, Hiking"
+a7629386-2ac9-4394-89d9-bf3b2afebabb,Kelly Gomez,34,,Barranquilla,2022-12-05,"Soccer, Yoga"
+e06c28e5-ad8c-41a6-b3c4-02c506af1de6,Jordan Green,39,Male,Cali,2023-03-14,"Yoga, Swimming"
+734262c2-dc13-4a67-aed2-a4ac0f21ab05,Carol Robinson,65,Non-binary,Cali,2022-01-23,"Swimming, Yoga, Hiking"
+183f4ba6-8406-4771-8ad5-9b66dc3c6bbb,Lori Joseph,46,,Cartagena,2023-12-22,Swimming
+46fbd74c-525b-4551-a65c-5421ec5f3b26,Kyle Flores,40,Male,Cartagena,2024-06-18,"Gymnastics, Hiking"
+162cfb5e-e592-4880-876f-43b1fd64bfa1,Tina Burke,21,Non-binary,Cartagena,2022-05-21,"Running, Gymnastics, Hiking"
+05dde624-c6d8-4e01-b582-e3ae1b812e5f,David Strong,25,Male,Cali,2021-10-02,"Yoga, Soccer"
+da09fb60-2d27-4d76-86e0-c466b68c76f8,Paul Kent,27,Male,Cartagena,2022-06-10,"Gymnastics, Hiking, Swimming"
+882debde-f346-432e-9aee-be004cfbe8d1,Amy Johnson,65,Female,Cali,2024-06-09,Running
+41fb9b2a-cfee-49b0-9e9b-c37dc14826b8,Troy Carr,49,Female,Medellín,2022-10-13,"Yoga, Running"
+5fd98507-fe82-4c9b-94bd-103a864bdc2a,Andrea Alexander,27,Male,Barranquilla,2022-01-29,Running
+fcbbb96c-18ed-459e-bba0-da15d2d56736,George Robinson,42,Female,Barranquilla,2022-08-31,"Yoga, Gymnastics, Soccer"
+5a9ba498-a064-4f1b-9a1e-e0f6b973e941,Shannon Smith,63,Non-binary,Medellín,2021-11-12,Soccer
+a9498f96-6ba7-44d9-a802-ab32f1095f1e,Ashley Mckenzie MD,36,Non-binary,Barranquilla,2021-11-29,"Yoga, Running"
+74a4edef-b8d5-4b93-9984-9ba8bf46ead5,Bridget Navarro,56,Male,Cali,2023-05-02,"Yoga, Soccer"
+08b2ace5-f544-412b-8fb5-f417de2c4c68,Donald Thomas,27,,Cartagena,2024-04-17,"Swimming, Gymnastics, Yoga"
+eb4d4085-8bcb-4998-b189-094a910f0fed,Robert Lopez,61,Female,Bogotá,2024-06-05,Soccer
+ef93a4f7-a8be-4c6f-ab88-02d4cbc1a0f5,Daniel Rojas,59,Female,Cartagena,2024-04-09,"Hiking, Swimming"
+8dc78aa7-22ee-475c-a88a-1c8181cd34bb,Michelle Ho,65,Male,Cartagena,2023-12-17,"Gymnastics, Swimming, Soccer"
+8371eb47-0e1e-4981-83e3-af4934bdba0d,Nicholas Cruz,44,Male,Barranquilla,2021-10-02,"Swimming, Gymnastics, Running"
+d52583c8-4ceb-46d3-9fe6-2e363162ef95,Edward Williams,39,,Cartagena,2023-06-14,"Hiking, Running"
+02a5887c-f254-44de-b0fc-a11e8cec313e,Megan Richardson,59,Non-binary,Cartagena,2022-07-30,"Swimming, Yoga, Soccer"
+c4e813db-44cf-43ca-83fa-0764dfd8a0ca,Hector Moore,39,Non-binary,Barranquilla,2021-12-25,Gymnastics
+0abd9cd0-aa1a-4bc3-b709-34f053dbee97,Shelly Bennett,46,Female,Barranquilla,2022-12-30,"Yoga, Gymnastics, Running"
+b71b5518-810c-415d-b1fd-cc43fd3b1021,Laura Bradley,33,Female,Barranquilla,2023-09-08,Soccer
+47ede528-3491-4d03-bf37-7baac8d13ca0,Clinton Hall,39,,Cali,2021-12-05,Soccer
+65b8e1b0-6559-42d5-bb52-0373febd7555,Paul Thomas,-49,Male,Cartagena,2022-10-27,"Hiking, Gymnastics, Swimming"
+4ef9e157-e439-4480-8ec1-871ab5c85060,Latoya Evans,52,,Bogotá,2023-03-22,"Hiking, Gymnastics, Yoga"
+cd849403-ac79-4bae-9cfc-308b1ce43559,Ann Ellis,57,Non-binary,Bogotá,2022-07-19,"Running, Yoga, Hiking"
+cb7033b7-0b57-4ca6-94ed-072c9e781e1a,Matthew Mathews,42,Non-binary,Cartagena,2022-11-30,Yoga
+c5a428c6-195f-408d-bd96-95c94a082de7,Scott Morrison,46,Female,Barranquilla,2022-06-13,"Gymnastics, Hiking"
+d24f6919-7d1d-439e-b453-6a9b7ecbcd45,Monica Stone,30,,Barranquilla,2022-04-13,Running
+865d2030-011e-43fe-bd3b-748d278223ab,Scott Garrett,28,Male,Medellín,2024-07-21,"Running, Soccer, Gymnastics"
+2ddf659f-bb8e-4e5c-b420-899951f0536c,Randall Salazar,19,Female,Barranquilla,2023-07-14,Soccer
+7d4189e8-b693-4ed4-b160-e9c69e82aeb7,Jennifer Moore,32,,Bogotá,2022-11-02,Soccer
+ab07fbb6-d826-47a1-8b5f-0fc389c936a9,Richard Smith,53,Male,Cartagena,2023-09-10,Soccer
+b89b1625-4a8b-4c5c-b8c6-5085119c21c4,Julian Mayer,47,Female,Cali,2024-03-25,"Yoga, Gymnastics, Running"
+35e70eef-4ee7-49b0-a6e8-80af11e58c08,Veronica Ford,64,,Medellín,2023-06-24,"Hiking, Running"
+b081690a-c73c-4b38-a50d-0c9ca556df18,Mr. David Cunningham,43,,Barranquilla,2024-02-03,Gymnastics
+868a9123-aa4b-438e-bb6f-6d2322ac9ff1,Brad Blair,36,Male,Bogotá,2023-12-21,"Soccer, Running"
+ac63457b-c470-40c6-bad8-1464959b0d07,Kimberly Bryant,22,Female,Bogotá,2023-12-16,"Swimming, Hiking, Gymnastics"
+015404b7-2e69-44c6-8720-05457b9ba35c,Stephanie Graham,-62,Male,Cali,2022-11-17,"Swimming, Yoga"
+e960a9f6-b395-4c69-8c37-7a526fed8601,David Townsend,20,Male,Cartagena,2024-05-14,"Swimming, Hiking, Running"
+601b7208-f7f3-432b-8bf1-c03817737931,Daniel Adams,18,Non-binary,Medellín,2021-09-03,Running
+0c132eec-9b19-48d8-b961-464b2c7ff2ed,David Thomas,38,Non-binary,Bogotá,2022-04-09,"Yoga, Running"
+3d384383-378f-40c0-9050-6f58e4555337,Susan Barrett,38,Male,Cartagena,2021-11-09,"Soccer, Hiking, Gymnastics"
+54f78e89-7d12-41b7-b2f5-eeeecd36c0c3,Benjamin Golden,64,Male,Cartagena,2024-02-17,"Yoga, Running"
+a3167929-0e61-4684-a5a6-1f880c461b54,Scott Tate,47,Female,Cartagena,2022-09-20,Gymnastics
+42e14ce9-7e8e-4d0d-8279-648dc8d4f7fb,Ashlee Hernandez,39,Female,Bogotá,2023-03-04,"Yoga, Swimming, Hiking"
+85bdca63-a100-4a8f-9182-7e3fb99e1a81,Veronica Bradford,24,Female,Medellín,2024-06-25,"Yoga, Soccer"
+9ee73bcd-cd5b-4c19-a09b-e0da9cea9a22,Kristina Choi,52,,Cali,2023-10-28,"Running, Soccer, Gymnastics"
+5a8ce27b-2f70-4365-a86c-6c4a3f796219,Dustin Mcdowell,50,Female,Medellín,2023-10-04,Swimming
+1c6258f0-272c-463d-87a6-0c7c41175ae3,James Weiss,57,,Bogotá,2022-05-22,"Swimming, Gymnastics"
+f0dd0920-6892-4d00-8c9a-aa56d0b2ce17,Krystal Velazquez,54,Female,Cartagena,2024-01-12,"Running, Swimming, Yoga"
+50bbd1c7-f01c-4cc7-bb87-c961fa17e092,Alan Pineda,63,Female,Cali,2021-09-08,Gymnastics
+53d9ba8e-d3cb-4cdc-8b65-0ac53bc35d42,Nicholas Dunlap,21,,Cartagena,2024-07-27,"Swimming, Soccer, Yoga"
+77760e5d-4180-4953-88e4-11b317604557,Philip Henderson,19,Non-binary,Barranquilla,2022-09-21,Gymnastics
+974b0fff-c563-40bb-a6d5-01fe4568e46b,Monica Harmon,57,,Cali,2022-03-03,"Gymnastics, Running, Hiking"
+5c9fb440-5ecc-4838-9e33-ae648b5ff9ef,Debra Diaz,-62,Female,Barranquilla,2021-11-11,"Gymnastics, Yoga"
+fe4114ce-f114-43a7-8a94-6f02689f2d23,Diana Merritt,57,Non-binary,Cali,2022-03-08,"Soccer, Hiking, Gymnastics"
+3458596e-3872-4121-95e0-637c7d490adf,Gregory Guerrero,21,Female,Bogotá,2022-04-14,Yoga
+3bbd199b-9e54-4fa6-a328-652a2d0c9076,Ann Huber,22,Male,Medellín,2023-09-22,"Gymnastics, Soccer, Yoga"
+0efa49d4-6101-43bd-8659-37dec2f99bf1,Cindy Vargas,56,,Bogotá,2022-06-15,"Hiking, Gymnastics, Swimming"
+1a124068-815c-47ed-b795-71ddf67d2311,Tracy Shannon,57,Male,Medellín,2023-02-03,"Yoga, Hiking"
+5028fbe2-9b99-416a-9e25-23c0f987dcbc,Tyrone Rivas,21,Male,Cali,2024-03-24,"Gymnastics, Running, Yoga"
+064cef9a-cb67-49d4-9f3d-3f96e66c50f1,Jessica Blackwell,64,,Cali,2022-01-18,Soccer
+5fbb6303-6c10-4433-a398-517350cb78ae,Samuel Brooks,46,Female,Medellín,2023-03-11,"Hiking, Yoga, Gymnastics"
+8f2fbda2-b50a-46d5-a347-43eef4207dd9,Michelle Benson,22,,Medellín,2022-05-27,"Yoga, Soccer"
+ccc8a46c-1180-4022-b523-e12dcac2868d,Daniel Lee,54,Non-binary,Medellín,2023-01-11,"Yoga, Hiking, Gymnastics"
+60b1c120-f4c1-423b-9a47-b8f9cee41404,Susan Garcia,25,Male,Barranquilla,2024-03-02,Hiking
+5d67ed18-0be3-4dd4-9e46-5d888c6f140e,Hunter Perry,61,Female,Cali,2022-11-15,"Hiking, Gymnastics"
+f7a8992f-4a05-4311-8479-1523ef31b7de,Patrick Ritter,57,,Medellín,2024-06-23,"Swimming, Yoga, Soccer"
+23bae9a9-76c6-4f55-a9b9-32bc23500fca,William Gomez,37,Male,Bogotá,2022-02-11,Soccer
