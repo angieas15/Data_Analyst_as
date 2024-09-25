@@ -14,3 +14,4 @@ https://public.tableau.com/views/BakeryPucon/BakeryPucon?:language=en-US&:sid=&:
 
 ## Python Project
 **Sport Store**
+This analysis investigates customer preferences regarding age, gender, and preferred sports to identify sales opportunities and optimize the product offering.
