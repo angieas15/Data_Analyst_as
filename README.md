@@ -5,6 +5,7 @@ My name is Angie Aragon, and in this repository, you will find projects that sho
 
 
 ## Projects
+**Backery Pucon**
 
 In this project, I analyzed the sales data of a bakery located in Pucon, Chile, and visualized the results using Excel and Tableau.  
 https://public.tableau.com/views/BakeryPucon/BakeryPucon?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
