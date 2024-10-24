@@ -17,3 +17,4 @@ https://public.tableau.com/views/BakeryPucon/BakeryPucon?:language=en-US&:sid=&:
 This analysis investigates customer preferences regarding age, gender, and preferred sports to identify sales opportunities and optimize the product offering.
 
 **Canine Sports Accesories**
+Cost and profitability analysis for a canine sports accessories store, focused on evaluating contribution margins and the impact of discounts on 2022-2023 sales. Key insights were generated to optimize decision-making and improve profitability, displayed in an interactive Tableau dashboard. https://public.tableau.com/app/profile/angie.aragon.sogamoso/viz/Caninesportsaccesories/Dashboard1
